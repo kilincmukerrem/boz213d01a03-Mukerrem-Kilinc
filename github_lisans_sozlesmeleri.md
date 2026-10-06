@@ -26,15 +26,15 @@ Açık kaynak lisansları temel olarak iki ana grupta toplanır:
 
 ## Farklı Durumlara Göre Hangi Sözleşme Kullanılmalı?
 * **Geniş Kitlelere Yayılma ve Kolay Entegrasyon (Örn. Araçlar, Yardımcı Kütüphaneler)**
-  **Lisans:** MIT License
-  **Neden:** Kodun şirketler tarafından kapalı kaynaklı ürünlere dahil edilmesine izin verir. En yaygın ekosistem uyumluluğuna sahiptir.
+  * **Lisans:** MIT License
+  * **Neden:** Kodun şirketler tarafından kapalı kaynaklı ürünlere dahil edilmesine izin verir. En yaygın ekosistem uyumluluğuna sahiptir.
   
 * **Kurumsal Projeler ve Patent Güvencesi (Örn. Framework'ler, Altyapı Yazılımları)**
   * **Lisans:** Apache License 2.0
-  * **Neden** Katkıda bulunanların telif veya patent hakkı iddia ederek dava açmasını engeller; ticari markanın korunmasını sağlar.
+  * **Neden:** Katkıda bulunanların telif veya patent hakkı iddia ederek dava açmasını engeller; ticari markanın korunmasını sağlar.
 * **Topluluğun Kod Paylaşımını Zorunlu Kılma (Örn. Masaüstü Uygulamaları, Çekirdek Sistemler)**
   * **Lisans:** GNU GPLv3
-  * **Neden.** Kodun değiştirilip ticarileştirilerek kapatılmasını engeller; türetilen her ürünün açık kaynak kalmasını teminat altına alır.
+  * **Neden:** Kodun değiştirilip ticarileştirilerek kapatılmasını engeller; türetilen her ürünün açık kaynak kalmasını teminat altına alır.
 * **Bulut ve SaaS Hizmetleri (Örn. Web API'leri, Ağ Tabanlı Platformlar)**
   * **Lisans:** GNU AGPLv3
   * **Neden:** Standart GPL'deki "kodun dağıtımı" şartı ağ üzerinden sunulan hizmetleri kapsamayabilir. AGPL, SaaS mimarisinde dahi kaynak kodun istemcilere açılmasını şart koşar.
